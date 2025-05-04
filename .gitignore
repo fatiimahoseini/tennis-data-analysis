@@ -1,0 +1,19 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment
+tennisvenv/
+tennisvenv/Lib/
+
+# Ignore data folder, if you don't want to track the data in git
+data/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore any .parquet files anywhere
+*.parquetSS

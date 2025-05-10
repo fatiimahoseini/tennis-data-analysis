@@ -50,7 +50,7 @@ The analysis aims to answer the following 17 questions:
 
 - Over 1200 unique players identified.
 - Average height: ~185 cm.
-- Player with most wins: [Name Placeholder].
+- Player with most wins: 🏆 Basilashvili, Nikoloz - 🟢 Wins: 56
 - Longest match: 4h 38min.
 - Positive correlation (r ≈ 0.32) between height and ranking.
 

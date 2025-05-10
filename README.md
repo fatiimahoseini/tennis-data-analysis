@@ -73,5 +73,5 @@ jupyter notebook
 
 ## 📬 Contact
 For questions, feedback, or collaboration:
-Email: fatiimahoseini@gmail.com
-Linkedin: [fatima hosseini](https://www.linkedin.com/in/fatiimahoseini/)
+  - Email: fatiimahoseini@gmail.com
+  - Linkedin: [fatima hosseini](https://www.linkedin.com/in/fatiimahoseini/)
